@@ -1,0 +1,12 @@
+template_dir = "templates/template"
+text_dir = "texts/text"
+test_texts_nr = 9
+templates_nr = 9
+swn_filename = 'SentiWordNet.txt'
+WN_affect_hierarchy_filename = "a-hierarchy.xml"
+WN_affect_synsets_filename = "a-synsets.xml"
+wn_id_dict_filename = 'wn_id_dict.txt'
+wn_1_6_corpus_root = 'wordnet-1.6\dict'
+english_wordlist_filename = 'C:/SentStrength_Data/EnglishWordList.txt'
+anew_filename = 'ANEW.txt'
+word_context_index_filename = "wc-index.txt"
